@@ -1,0 +1,152 @@
+
+# tap repositories and their packages
+
+## caskroom/cask
+tap caskroom/cask
+cask alfred
+cask appcleaner
+cask bartender
+cask bettertouchtool
+cask cooviewer
+cask dropbox
+cask eclipse-jee
+cask evernote
+cask fantastical
+cask fenix
+cask firealpaca
+cask flash-player
+cask flash
+cask genymotion
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
+cask itsycal
+cask kobito
+cask lyrics-master
+cask mailbox
+cask minecraft
+cask mysqlworkbench
+cask onyx
+cask silverlight
+cask sketch
+cask skitch
+cask skype
+cask sourcetree
+cask srware-iron
+cask steam
+cask the-unarchiver
+cask unity-web-player
+cask virtualbox
+cask vlc
+cask xquartz
+cask xtrafinder
+
+## caskroom/fonts
+tap caskroom/fonts
+
+## caskroom/versions
+tap caskroom/versions
+cask java7
+cask sublime-text3
+cask vmware-fusion6
+
+## rcmdnk/file
+tap rcmdnk/file
+brew brew-file
+
+## sanemat/font
+tap sanemat/font
+brew ricty --powerline --vim-powerline
+
+# Other Homebrew packages
+brew android-ndk
+brew android-sdk
+brew autoconf
+brew boost
+brew cairo
+brew coreutils
+brew czmq
+brew fontconfig --universal
+brew fontforge
+brew freetype --universal
+brew gd --universal
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew gmp
+brew gnutls
+brew gobject-introspection
+brew harfbuzz
+brew icu4c
+brew jasper --universal
+brew jpeg --universal
+brew libevent
+brew libffi
+brew libgphoto2 --universal
+brew libicns --universal
+brew libpng --universal --universal --universal
+brew libsodium
+brew libtasn1 --universal
+brew libtiff --universal
+brew libtool --universal
+brew libusb --universal
+brew libusb-compat --universal
+brew little-cms2 --universal
+brew makedepend
+brew mysql
+brew nettle
+brew nodebrew
+brew openssl --universal --universal
+brew pango
+brew pcre
+brew pixman
+brew pkg-config
+brew python
+brew rbenv
+brew rbenv-gem-rehash
+brew readline
+brew reattach-to-user-namespace
+brew ruby-build
+brew sane-backends --universal
+brew sqlite
+brew tmux
+brew vim
+brew wine
+brew xz
+brew zeromq
+brew zsh --disable-etcdir --without-etcdir --without-etcdir
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask noi (!)
+#cask yukkuroid (!)
+
+# App Store applications
+appstore Dash
+appstore Disk Diag
+appstore DrCleaner
+appstore Foobar
+appstore FreeMan
+appstore GarageBand
+appstore iMovie
+appstore InstantTranslate
+appstore InstaReel
+appstore iPhoto
+appstore Keynote
+appstore LINE
+appstore Lyrical
+appstore Microsoft OneNote
+appstore Newsflow
+appstore Noizio
+appstore Numbers
+appstore Pages
+appstore Pocket
+appstore Privatus
+appstore Tweetbot
+appstore Twitter
+appstore Typist
+appstore VirusScannerPlus
+appstore Volume Reset
+appstore Xcode
